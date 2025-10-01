@@ -1,4 +1,4 @@
-open ounit2
+open OUnit2
 open Basics
 
 let test_rev_tup _ =
